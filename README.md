@@ -17,7 +17,7 @@ Sou estudante de engenharia eletrônica da Universidade Federal de Pernambuco (U
 
 <div style: "display: inline">
 
-<a href = "linkedin.com/in/gabriel-medeiros-"> <img src = 'https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge& logo=linkedin& logoColor=white'> </a>
+<a href = "https://www.linkedin.com/in/gabriel-medeiros-/"> <img src = 'https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge& logo=linkedin& logoColor=white'> </a>
 <a href = "https://www.kaggle.com/gdmedeiros"> <img src = 'https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white'> </a>
 <a href = "g53medeiros@gmail.com"> <img src = 'https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'> </a>
 
