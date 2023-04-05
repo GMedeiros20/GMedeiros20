@@ -1,6 +1,6 @@
 ### Olá, meu nome é Gabriel Medeiros.
 
-Sou estudante de engenharia eletrônica da Universidade Federal de Pernambuco (UFPE). Meu objetivo profissional é me especializar na área de Data Science utilizando os conceitos de cálculo, estatística, lógica e programação, os quais desenvolvi durante toda a minha trajetória acadêmica. No meu perfil você irá encontrar diversos projetos em Python relacionados com Data Science e Machine Learning. 
+Sou estudante de engenharia eletrônica da Universidade Federal de Pernambuco (UFPE). Meu objetivo profissional é me especializar na área de Ciência de Dados utilizando os conceitos de cálculo, estatística, lógica e programação, os quais desenvolvi durante toda a minha trajetória acadêmica. No meu perfil você irá encontrar diversos projetos em Python relacionados com Data Science e Machine Learning. 
 
 * 👨🏻‍💻 Estudante de Ciência de Dados
 * 💬 Me pergunte sobre matemática, estatística, probabilidade, Python, Data Science e Machine Learning.
